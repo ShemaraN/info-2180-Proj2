@@ -46,8 +46,8 @@ var spaceX;
 
 				this.style.textDecoration = "underline"; //underlines the number of the puzzle piece piece
 
-                this.style.backgroundImage="url('https://s-media-cache-ak0.pinimg.com/564x/83/72/12/837212dd8b71f9b5d175ac98f2c7668a.jpg')"; 
-                //sets the image for the puzzle's background 
+                                this.style.backgroundImage="url('background.jpg')"; 
+                                //sets the image for the puzzle's background 
 
 			}
 
